@@ -1,1 +1,1 @@
-# alu-zero_day. Repository
+# alu-zero_day. Repository(It's a good day)
